@@ -1,0 +1,25 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": [0],
+    "import/no-extraneous-dependencies": 0,
+    "react/jsx-filename-extension": 0,
+    "react/jsx-fragments": 0,
+    "lines-between-class-members": "off",
+    "react/jsx-props-no-spreading": 0,
+    "no-console": "off",
+    "import/no-unresolved": "off",
+    "import/no-dynamic-require": 0,
+    "react/no-array-index-key": 0,
+    "import/extensions": "off",
+    "no-unused-vars": "warn",
+    "react/jsx-one-expression-per-line": 0
+  }
+}
