@@ -3,7 +3,7 @@
 ## Features
 
 - React 16
-- Webpack 5
+- Webpack 4
 - Babel 7
 - Hot Module Replacement
 - Dev + Production Builds
