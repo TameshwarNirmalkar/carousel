@@ -23,4 +23,4 @@
 - visit `http://localhost:8080/`
 
 ## Preview
-[https://github.com/TameshwarNirmalkar/carousel/blob/main/craousel.gif]
+![plot](https://github.com/TameshwarNirmalkar/carousel/blob/main/craousel.gif)
