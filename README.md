@@ -21,3 +21,6 @@
 - npm install
 - npm start
 - visit `http://localhost:8080/`
+
+## Preview
+![plot](craousel.gif?raw=true "Carousel")
